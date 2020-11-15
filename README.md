@@ -1,9 +1,4 @@
----
-title: "Course Project 1 - Reproducible Research"
-author: "Shengyu Chen"
-date: "March 20, 2016"
-output: html_document
----
+
 
 ##Assignment Instructions
 1.Code for reading in the dataset and/or processing the data
